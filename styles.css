@@ -4,10 +4,10 @@
 }
 
 .nav-bar-list{
-	display:inline;
 	list-style:none;
 }
 
 li{
+	display:inline;
 	margin-right:1rem;
 }
